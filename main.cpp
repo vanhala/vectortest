@@ -2,7 +2,6 @@
 #include <vector>
 #include <cstdlib>
 #include <sys/time.h>
-//#include "../../home/tuomas/iaca-lin64/include/iacaMarks.h"
 
 extern "C" double vectortest(double * a,double * b,unsigned int * ind,unsigned int N);
 extern "C" double vectortest_asm(double * a,double * b,unsigned int * ind,unsigned int N);
