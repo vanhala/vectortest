@@ -1,0 +1,6 @@
+/vectortest
+*~
+alignment_allocator.h
+*.o
+vectortest.S
+vectortest_asm_2_siisti.s
